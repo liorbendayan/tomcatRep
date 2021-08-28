@@ -2,7 +2,7 @@
 <head>
 <title>JSP Example</title></head>
 <body>
-<h1>Random Number Generator !!</h1>
+<h1>Random Number Generator !!!</h1>
 </br>
 <h2>Let's see how lucky you are todat.. </h2>
 
